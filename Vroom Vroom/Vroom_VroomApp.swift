@@ -12,6 +12,7 @@ struct Vroom_VroomApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
